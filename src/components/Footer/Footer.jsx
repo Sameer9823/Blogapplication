@@ -68,7 +68,7 @@ function Footer() {
         </div>
       </div>
       
-      <div className="text-center">
+      <div className="text-center mt-[3rem] lg:mt-3">
       © Sameer Selokar 2024
       All Rights Reserved.
       </div>
